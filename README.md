@@ -6,8 +6,8 @@
 
 <div>
 	<a href=""></a>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=jpgamers&show_icons=true&theme=dracula"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgamers&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpgamers&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgamers&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
