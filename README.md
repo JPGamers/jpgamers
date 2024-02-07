@@ -1,8 +1,7 @@
-### Olá, Eu sou o JP! 👋
+### Hii, My name is João Pedro (JP)! 👋
 
-- 🔭 Hoje trabalho com Plugins de Minecraft!
-- 🌱 Estudando Java e Html
-- 😄 Pronouns: ele/dele
+- 🔭 I work development plugins for minecraft
+- 🌱 I studying Java
 
 <div>
 	<a href=""></a>
